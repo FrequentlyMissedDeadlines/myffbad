@@ -1,0 +1,2 @@
+# myffbad
+extract players information
